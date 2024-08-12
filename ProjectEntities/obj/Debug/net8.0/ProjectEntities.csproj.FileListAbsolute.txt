@@ -1,0 +1,12 @@
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\bin\Debug\net8.0\ProjectEntities.deps.json
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\bin\Debug\net8.0\ProjectEntities.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\bin\Debug\net8.0\ProjectEntities.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\ProjectEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\ProjectEntities.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\ProjectEntities.AssemblyInfo.cs
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\ProjectEntities.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\ProjectEntities.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\refint\ProjectEntities.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\ProjectEntities.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\ref\ProjectEntities.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectEntities\obj\Debug\net8.0\ProjectEntities.csproj.AssemblyReference.cache

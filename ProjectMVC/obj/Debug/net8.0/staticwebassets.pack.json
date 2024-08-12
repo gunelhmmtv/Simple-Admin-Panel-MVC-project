@@ -1,0 +1,1065 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\ProjectMVC.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ProjectMVC.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\css\\icons.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\css\\preloader.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\css\\preloader.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\boxiconsd41d.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\boxiconsd41d.svg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\dripicons-v2d41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\dripicons-v2d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-brands-400d41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-brands-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-regular-400d41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-regular-400d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\fa-solid-900d41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\fa-solid-900d41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfont1d2d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfont1d2d.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfont1d2d.ttf",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfont1d2d.ttf"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfont1d2d.woff",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfont1d2d.woff"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfont1d2d.woff2",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfont1d2d.woff2"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\fonts\\materialdesignicons-webfontd41d.eot",
+      "PackagePath": "staticwebassets\\AdminTemplates\\fonts\\materialdesignicons-webfontd41d.eot"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\bg-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\bg-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\bg-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\bg-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\bg-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\bg-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\brands\\bitbucket.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\brands\\bitbucket.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\brands\\dribbble.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\brands\\dropbox.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\brands\\dropbox.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\brands\\github.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\brands\\github.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\brands\\mail_chimp.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\brands\\mail_chimp.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\brands\\slack.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\error-img.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\error-img.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\flags\\germany.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\germany.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\flags\\italy.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\italy.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\flags\\russia.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\russia.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\flags\\spain.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\spain.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\flags\\us.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\flags\\us.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\giftbox.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\giftbox.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\logo-sm.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\logo-sm.svg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\small\\img-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\small\\img-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\small\\img-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\small\\img-4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\small\\img-5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\small\\img-6.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\small\\img-7.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\small\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\undraw-calendar.svg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\undraw-calendar.svg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\WhatsApp Image 2024-04-07 at 16.57.40_cd08ec40.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\WhatsApp Image 2024-04-07 at 16.57.40_cd08ec40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-10.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-4.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-5.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-6.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-8.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\images\\users\\avatar-9.jpg",
+      "PackagePath": "staticwebassets\\AdminTemplates\\images\\users\\avatar-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\app.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\alert.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\alert.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\apexcharts.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\apexcharts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\bootstrap-toasts.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\bootstrap-toasts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\calendar.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\calendar.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\chartjs.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\chartjs.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\coming-soon.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\coming-soon.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\dashboard.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\dashboard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\datatable-pages.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\datatable-pages.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\datatables.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\datatables.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\echarts.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\echarts.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\email-editor.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\email-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\fontawesome.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\fontawesome.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\form-advanced.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-advanced.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\form-editor.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-editor.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\form-mask.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-mask.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\form-validation.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\form-wizard.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\form-wizard.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\gmaps.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\gmaps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\invoices-list.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\invoices-list.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\jquery-knob.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\jquery-knob.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\leaflet-map.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\leaflet-map.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\leaflet-us-states.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\leaflet-us-states.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\lightbox.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\lightbox.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\materialdesign.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\materialdesign.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\modal.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\modal.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\notification.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\notification.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\pass-addon.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\pass-addon.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\rangeslider.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\rangeslider.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\rating.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\rating.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\session-timeout.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\session-timeout.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\sparklines.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\sparklines.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\sweetalert.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\sweetalert.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\table-editable.int.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\table-editable.int.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\table-responsive.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\table-responsive.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\two-step-verification.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\two-step-verification.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\validation.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\validation.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\js\\pages\\vector-maps.init.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\js\\pages\\vector-maps.init.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@ckeditor\\ckeditor5-build-classic\\build\\ckeditor.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@ckeditor\\ckeditor5-build-classic\\build\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@curiosityx\\bootstrap-session-timeout\\index.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@curiosityx\\bootstrap-session-timeout\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\bootstrap\\main.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\bootstrap\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\bootstrap\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\bootstrap\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\core\\main.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\core\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\core\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\core\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\daygrid\\main.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\daygrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\daygrid\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\daygrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\interaction\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\interaction\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\timegrid\\main.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\timegrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@fullcalendar\\timegrid\\main.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@fullcalendar\\timegrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@simonwep\\pickr\\pickr.es5.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@simonwep\\pickr\\pickr.es5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@simonwep\\pickr\\pickr.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@simonwep\\pickr\\pickr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@simonwep\\pickr\\themes\\classic.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@simonwep\\pickr\\themes\\classic.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@simonwep\\pickr\\themes\\monolith.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@simonwep\\pickr\\themes\\monolith.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\@simonwep\\pickr\\themes\\nano.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\@simonwep\\pickr\\themes\\nano.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\jquery-jvectormap-1.2.2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-au-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-au-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-ca-lcc-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-ca-lcc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-in-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-in-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-uk-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-uk-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-il-chicago-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-il-chicago-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-merc-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-us-merc-en.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-world-mill-en.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\jquery.vectormap\\maps\\jquery-jvectormap-world-mill-en.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\rwd-table\\rwd-table.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\rwd-table\\rwd-table.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\admin-resources\\rwd-table\\rwd-table.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\admin-resources\\rwd-table\\rwd-table.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\alertifyjs\\build\\alertify.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\alertifyjs\\build\\alertify.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\alertifyjs\\build\\css\\alertify.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\alertifyjs\\build\\css\\alertify.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\alertifyjs\\build\\css\\themes\\default.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\alertifyjs\\build\\css\\themes\\default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\choices.js\\public\\assets\\scripts\\choices.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\choices.js\\public\\assets\\scripts\\choices.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\choices.js\\public\\assets\\styles\\choices.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\choices.js\\public\\assets\\styles\\choices.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-bs4\\css\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-bs4\\js\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons-bs4\\css\\buttons.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons-bs4\\css\\buttons.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons-bs4\\js\\buttons.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons-bs4\\js\\buttons.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.html5.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons\\js\\buttons.print.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-buttons\\js\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-buttons\\js\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-responsive-bs4\\css\\responsive.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-responsive-bs4\\css\\responsive.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-responsive-bs4\\js\\responsive.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-responsive-bs4\\js\\responsive.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net-responsive\\js\\dataTables.responsive.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net-responsive\\js\\dataTables.responsive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\datatables.net\\js\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\datatables.net\\js\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\dropzone\\min\\dropzone.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropzone\\min\\dropzone.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\dropzone\\min\\dropzone.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\dropzone\\min\\dropzone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\feather-icons\\feather.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\feather-icons\\feather.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\flatpickr\\flatpickr.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flatpickr\\flatpickr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\flatpickr\\flatpickr.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\flatpickr\\flatpickr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\gmaps\\gmaps.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\gmaps\\gmaps.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\imask\\imask.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\imask\\imask.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\jquery-countdown\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-countdown\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\jquery-knob\\jquery.knob.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-knob\\jquery.knob.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\jquery-sparkline\\jquery.sparkline.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery-sparkline\\jquery.sparkline.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\jszip\\jszip.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\jszip\\jszip.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\leaflet\\images\\layers-2x.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\leaflet\\images\\layers-2x.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\leaflet\\images\\layers.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\leaflet\\images\\layers.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\leaflet\\images\\marker-icon.png",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\leaflet\\images\\marker-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\leaflet\\leaflet.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\leaflet\\leaflet.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\leaflet\\leaflet.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\leaflet\\leaflet.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\masonry-layout\\masonry.pkgd.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\masonry-layout\\masonry.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\metismenu\\metisMenu.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\metismenu\\metisMenu.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\node-waves\\waves.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\node-waves\\waves.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\nouislider\\nouislider.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\nouislider\\nouislider.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\nouislider\\nouislider.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\nouislider\\nouislider.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\pace-js\\pace.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\pace-js\\pace.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\pdfmake\\build\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\pdfmake\\build\\pdfmake.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\pdfmake\\build\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\pdfmake\\build\\vfs_fonts.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\pristinejs\\pristine.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\pristinejs\\pristine.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\rater-js\\index.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\rater-js\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\simplebar\\simplebar.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\simplebar\\simplebar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\sweetalert2\\sweetalert2.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\sweetalert2\\sweetalert2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\sweetalert2\\sweetalert2.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\sweetalert2\\sweetalert2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\table-edits\\build\\table-edits.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\table-edits\\build\\table-edits.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\twitter-bootstrap-wizard\\jquery.bootstrap.wizard.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\twitter-bootstrap-wizard\\jquery.bootstrap.wizard.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\twitter-bootstrap-wizard\\prettify.css",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\twitter-bootstrap-wizard\\prettify.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\twitter-bootstrap-wizard\\prettify.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\twitter-bootstrap-wizard\\prettify.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\AdminTemplates\\libs\\wnumb\\wNumb.min.js",
+      "PackagePath": "staticwebassets\\AdminTemplates\\libs\\wnumb\\wNumb.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\js\\productTable.js",
+      "PackagePath": "staticwebassets\\js\\productTable.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\gunel\\Desktop\\c#\\PracticeTemp\\ProjectMVC\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ProjectMVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ProjectMVC.props",
+      "PackagePath": "build\\ProjectMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ProjectMVC.props",
+      "PackagePath": "buildMultiTargeting\\ProjectMVC.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ProjectMVC.props",
+      "PackagePath": "buildTransitive\\ProjectMVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

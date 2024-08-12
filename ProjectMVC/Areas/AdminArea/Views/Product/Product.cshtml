@@ -1,0 +1,67 @@
+﻿@{
+    ViewData["Title"] = "Product";
+    Layout = "~/Areas/AdminArea/Views/Shared/_AdminLayout.cshtml";
+}
+<div class="container-fluid">
+
+    <!-- start page title -->
+    <div class="row">
+        <div class="col-12">
+            <div class="page-title-box d-sm-flex align-items-center justify-content-between">
+          
+
+            </div>
+        </div>
+    </div>
+    <!-- end page title -->
+
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-header">
+                    <h4 class="card-title">Product list</h4>
+                    
+                </div>
+                <div class="card-body">
+                @* <div class="table-responsive"> *@
+
+                    <div id="datatable_wrapper" class="dataTables_wrapper dt-bootstrap4 no-footer  ">
+                          <div class="col-sm-12 table-primary w-lig">
+                            <table id="product-datatable" class="table table-bordered  dt-responsive nowrap w-100 dataTable no-footer dtr-inline collapsed" aria-describedby="datatable_info" style="width: 1169px;">
+                                <thead class="bg-primary text-light table-primary w-lig">
+                                        <tr role="row">
+                                            <th class="sorting_asc" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Name: activate to sort column descending" style="width: 140.583px;">Id</th>
+                                            <th class="sorting_asc" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-sort="ascending" aria-label="Name: activate to sort column descending" style="width: 140.583px;">Product Name</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Position: activate to sort column ascending" style="width: 220.167px;">Price</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Position: activate to sort column ascending" style="width: 220.167px;">Stock Count</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Position: activate to sort column ascending" style="width: 220.167px;">Edit</th>
+                                            <th class="sorting" tabindex="0" aria-controls="datatable" rowspan="1" colspan="1" aria-label="Position: activate to sort column ascending" style="width: 220.167px;">Delete</th>
+
+                                        </tr>
+                                    </thead>
+
+
+                                    <tbody>
+
+                                    </tbody>
+                             </table>
+                          </div>
+                            @* </div> *@
+                    </div>
+
+                </div>
+            </div>
+        </div> <!-- end col -->
+    </div> <!-- end row -->
+
+@section scripts {
+        <script src="~/AdminTemplates/libs/datatables.net-buttons/js/buttons.html5.min.js"></script>
+        <script src="~/AdminTemplates/libs/datatables.net-buttons/js/buttons.print.min.js"></script>
+        <script src="~/AdminTemplates/libs/datatables.net-buttons/js/buttons.colVis.min.js"></script>
+        <script src="~/AdminTemplates/libs/datatables.net-responsive/js/dataTables.responsive.min.js"></script>
+        <script src="~/AdminTemplates/libs/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js"></script>
+        <script src="~/AdminTemplates/js/pages/datatables.init.js"></script>
+
+        <script src="~/js/productTable.js"></script>
+}
+   

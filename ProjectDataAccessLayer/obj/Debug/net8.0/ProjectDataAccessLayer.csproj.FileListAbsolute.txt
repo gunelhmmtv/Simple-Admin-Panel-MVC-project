@@ -1,0 +1,17 @@
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\bin\Debug\net8.0\ProjectDataAccessLayer.deps.json
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\bin\Debug\net8.0\ProjectDataAccessLayer.runtimeconfig.json
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\bin\Debug\net8.0\ProjectDataAccessLayer.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\bin\Debug\net8.0\ProjectDataAccessLayer.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\bin\Debug\net8.0\ProjectEntities.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\bin\Debug\net8.0\ProjectEntities.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.AssemblyInfo.cs
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.csproj.CopyComplete
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\refint\ProjectDataAccessLayer.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ProjectDataAccessLayer.genruntimeconfig.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectDataAccessLayer\obj\Debug\net8.0\ref\ProjectDataAccessLayer.dll

@@ -1,0 +1,17 @@
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\bin\Debug\net8.0\ProjectBusinessLogicLayer.deps.json
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\bin\Debug\net8.0\ProjectBusinessLogicLayer.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\bin\Debug\net8.0\ProjectBusinessLogicLayer.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\bin\Debug\net8.0\ProjectDataAccessLayer.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\bin\Debug\net8.0\ProjectEntities.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\bin\Debug\net8.0\ProjectDataAccessLayer.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\bin\Debug\net8.0\ProjectEntities.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ProjectBusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ProjectBusinessLogicLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ProjectBusinessLogicLayer.AssemblyInfoInputs.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ProjectBusinessLogicLayer.AssemblyInfo.cs
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ProjectBusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ProjectBusinessLogicLayer.csproj.CopyComplete
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ProjectBusinessLogicLayer.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\refint\ProjectBusinessLogicLayer.dll
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ProjectBusinessLogicLayer.pdb
+C:\Users\gunel\Desktop\c#\PracticeTemp\ProjectBusinessLogicLayer\obj\Debug\net8.0\ref\ProjectBusinessLogicLayer.dll
